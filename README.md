@@ -19,5 +19,5 @@ De plus, j'ai personnellement apprécié travailler avec les technologies web et
 Compte-tenu du temps alloué (3x3h), nous étions assez satisfaits du résultat.
 
 ## Auteurs
-Thomas Legrand
+Tu y yo
 R. P.
